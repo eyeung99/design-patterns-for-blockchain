@@ -1,2 +1,2 @@
-# test-2020
+design-patterns-for-blockchain
 class lab
