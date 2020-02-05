@@ -1,2 +1,2 @@
 design-patterns-for-blockchain
-class lab
+class lab and assignments
