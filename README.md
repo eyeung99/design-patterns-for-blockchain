@@ -2,7 +2,7 @@ design-patterns-for-blockchain
 class lab and assignments
 
 
-3. local-to-ipfs-diaply requires the following
+local-to-ipfs-display requires the following
   ipfs init
   ipfs daemon
   
