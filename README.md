@@ -1,8 +1,9 @@
 design-patterns-for-blockchain
-class lab and assignments
+  Class lab and assignments
 
 
-local-to-ipfs-display requires the following
+local-to-ipfs-pic-display.js 
+requires the following execution environment
   ipfs init
   ipfs daemon
   
@@ -29,4 +30,22 @@ local-to-ipfs-display requires the following
   Display the file in the
 
 
+ArtistAndArtwork.sol
+  This is an assignment exercise to connect artist with the works
+  It is an ERC721 implementation
+  
+  Create ERC-721 standard smart contract and mint non fungible tokens for that contract
+  The artist is the owner and related to the owner's artwork 
+  Can transfer ownership of work 
+
+StockPriceVolume.sol
+  A smart contract to set the stock price
+  Get the stock price
+  Retrieve the stock volume
+  
+  The implement a program in .js to connect to the
+  stock exchange and to retrieve a stock and display the volume, price
+  
+  
+  
 
